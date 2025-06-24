@@ -6,10 +6,10 @@ This project is a GUI-based tool built with Python that helps users analyze the 
 
 ## Features
 
-- ✅ Analyze password strength using the `zxcvbn` library
-- 🔁 Get real-time feedback and crack-time estimates
-- 🧠 Custom wordlist generator with leetspeak variations
-- 🖥️ Simple GUI built with Tkinter for ease of use
+- Analyze password strength using the `zxcvbn` library
+- Get real-time feedback and crack-time estimates
+- Custom wordlist generator with leetspeak variations
+- Simple GUI built with Tkinter for ease of use
 
 ---
 
@@ -41,7 +41,7 @@ Wordlist Generator Logic
     Generates variations for use in cracking simulations or training
 
 
-Project-Elevate-Labs-2/
+## Project-Elevate-Labs-2/
 │
 ├── main.py             # Main application file with GUI logic
 ├── README.md           # Project documentation
